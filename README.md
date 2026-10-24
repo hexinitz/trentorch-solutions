@@ -1,6 +1,7 @@
 # TrenTorch Solutions
 
 My personal collection of solutions to exercises from [TrenTorch](https://trentorch.com/).
+My [TrenTorch Profile](https://trentorch.com/accounts/@hexinitz).
 
 ## About
 
